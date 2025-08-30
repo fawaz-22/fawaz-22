@@ -23,7 +23,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedfawaz-f19)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-fawaz-f19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Email](https://img.shields.io/badge/Gmail-leofawaz.z@gmail.com-red?logo=gmail&logoColor=white)](mailto:leofawaz.z@gmail.com)
 
 ---
